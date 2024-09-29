@@ -1,10 +1,11 @@
 [package]
-name = "pyo3-asyncio-macros-0-21"
-description = "Proc Macro Attributes for PyO3 Asyncio - 0.21 fork"
-version = "0.21.0"
+name = "pyo3-asyncio-macros"
+description = "Proc Macro Attributes for PyO3 Asyncio - 0.22 fork"
+version = "0.22.0"
 authors = [
     "Andrew J Westlake <awestlake87@yahoo.com>",
     "David Hewitt <mail@davidhewitt.dev>",
+	"Shane Murphy <shane.murphy@umbra.space>",
 ]
 readme = "../README.md"
 keywords = ["pyo3", "python", "ffi", "async", "asyncio"]
